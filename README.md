@@ -1,6 +1,6 @@
-👋 Hey there fellow human! I'm Akram and I'm a Software Engineer👨‍💻 at NetScout.
+👋 Hey there fellow human! I'm Akram and I'm a Software Engineer👨‍💻 at Zillow.
 
-On the CS side of things, recently, I've been doing a lot of Kubernetes⎈(my aliases can vouch for me lol), AWS☁️, and Grafana📈 stuff. I enjoy both front-end as well as back-end.
+On the CS side of things, recently, I've been doing a lot of Kubernetes⎈(my aliases can vouch for me lol), AWS☁️, and Trino stuff. I enjoy both front-end as well as back-end.
 
 I've always been a mountain biker🚵 and soccer⚽ player, but since I moved to Colorado I have also managed to pick up bouldering🧗 and snowboarding🏂 as my latest and greatest sports. 
 
